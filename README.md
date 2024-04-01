@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grifal
-- 👀 I’m interested in data science, AI, and machine learning.
+- 👀 I’m interested in NLP, AI/ML, and conversation design.
 - 🌱 I’m currently learning Python on my own!
 - 💞️ Not sure what I'm looking to collaborate on at the moment...
 
